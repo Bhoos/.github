@@ -7,7 +7,13 @@ For e.g "Fixes #123 Fixes #12" in case of multiple fixes or include the issues u
 
 Fixes #
 
-- [ ] I have tested this change locally (Remember to update this when you send for review)
+## Checklist 
+
+- [ ] My code follows the style guidelines of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have made corresponding changes to the documentation (if necessary)
+- [ ] I have performed adequate tests that prove my fix is effective or that my feature works
 
 ## Proposed Changes
 
