@@ -27,4 +27,4 @@ assignees:
 
 # Decison maker
 
-> There should be only one who can decide and will decide. 
+> There should be only one if this is about making decision. Otherwise none if for general understanding. 
